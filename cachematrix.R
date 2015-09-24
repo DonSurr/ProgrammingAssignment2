@@ -1,7 +1,7 @@
 ## These set of function cache a matrix and its inverse
 
 ##     This function creates a special "matrix" 
-##     object that can cache its inverse
+##     object that can cache its inverse 
 
 
 makeCacheMatrix <- function(x = matrix()) {
